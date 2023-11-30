@@ -1,4 +1,4 @@
-# Rewriting the bot again from scratch using TypeScript and Design patterns. This repo is archived and demo for what a whatsapp bot is. The new repo currently is private and soon to be launched.
+stuff# Rewriting the bot again from scratch using TypeScript and Design patterns. This repo is archived and demo for what a whatsapp bot is. The new repo currently is private and soon to be launched.
 
 **Made completely out of NodeJs and Websockets. Special thanks to Baileys library to enable interaction with whatsapp web**
 
@@ -9,7 +9,7 @@
 3. Promote/Demte someone as an admin.
 4. Set name/description of group.
 5. Warn any user for misconduct.
-6. Remove any user from group.
+6. Remove any user from groups 
 7. Toggle disappearing messages.
 8. Get group invite link.
 9. find videos from youtube , conduct a web and image search on internet.
